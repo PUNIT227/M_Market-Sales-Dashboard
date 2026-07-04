@@ -45,4 +45,4 @@ This project presents an interactive Power BI dashboard for Maven Market, design
 ## Dashboard Preview
 
 
-https://github.com/PUNIT227/M_Market-Sales-Dashboard/blob/main/MavenMarket_D.gif
+(https://github.com/PUNIT227/M_Market-Sales-Dashboard/blob/main/MavenMarket_D.gif)
